@@ -104,3 +104,8 @@ Wtest(L=L1,Tn= thetahat, Vn = Vhat)
 
 # p value is insiginficant can use as either quantitaive or qualitive. we do not have enough evidence
 # to suggest that either option is better. Final model to use: y = sex + ph.ecog. 
+# Through this project, we aim to contribute to the understanding of factors influencing 
+# survival outcomes in cancer patients. By leveraging survival analysis techniques 
+# and Cox proportional hazards modeling, we seek to develop robust predictive models 
+# that can assist clinicians in prognosis and treatment decision-making. The insights 
+# gained from this analysis may have implications for personalized medicine and patient care in oncology.
