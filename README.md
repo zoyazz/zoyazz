@@ -1,4 +1,4 @@
- 👋 Hi, I’m @zoyazz
+- 👋 Hi, I’m @zoyazz
 - 👀 I’m interested in infrential and descriptive statistics and machine learning
 - 🌱 I'm a UofT alumni with a major in mathematics and applied statistics and minor in GIS
 
